@@ -1,3 +1,4 @@
+////Define Function
 const result=(computer,user)=>{
   if(user==computer){   
     return 0
